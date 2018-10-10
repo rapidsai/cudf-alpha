@@ -9,7 +9,7 @@ For more information see the announcement and details about the RAPIDS project <
 ## Using PyGDF and LibGDF
 
 ### LibGDF
-To build and install libGDF see the [libGDF README](https://github.com/rapidsai/libgdf/README.md)
+To build and install libGDF see the [libGDF README](https://github.com/rapidsai/libgdf/blob/master/README.md)
 
 ### PyGDF
-To build and install pyGDF see the [pyGDF README](https://github.com/rapidsai/pygdf/README.md)
+To build and install pyGDF see the [pyGDF README](https://github.com/rapidsai/pygdf/blob/master/README.md)
