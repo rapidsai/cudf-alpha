@@ -1,7 +1,7 @@
 # cuDF
 
 ## Where is cuDF?
-We are in the process of integrating and merging PyGDF and LibGDF into a unified library called cuDF. This is a part of NVIDIA RAPIDS project and will take place over the next few weeks. All development has moved from <https://github.com/gpuopenanalytics> to this org.
+We are in the process of integrating and merging PyGDF and LibGDF into a unified library called cuDF. This is a part of RAPIDS project and will take place over the next few weeks. All development has moved from <https://github.com/gpuopenanalytics> to this org.
 
 ## Learn more about RAPIDS
 For more information see the announcement and details about the RAPIDS project <https://rapids.ai>
