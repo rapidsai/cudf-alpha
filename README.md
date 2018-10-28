@@ -1,3 +1,15 @@
+# :warning: [ARCHIVED] cuDF-alpha
+
+## All development has moved to the cuDF repo effective October 28th 2018
+
+The contents of this repo and the README have been archived for reference. Future development for cuDF will take place in the  [cuDF](https://github.com/rapidsai/cudf) repo.
+
+### Outstanding Issues
+
+All issues will be copied and migrated to the cuDF repo.
+
+---
+
 # cuDF
 
 ## Where is cuDF?
